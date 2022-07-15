@@ -9,3 +9,8 @@
 ## Use the app
 
 -> Click here to view the built app: [GuitarLA - Main Page](https://guitarla-angelcruz160798-gmailcom.vercel.app/)
+
+## Content Management System (Strapi)
+
+### Controlling the content via Strapi and send through JSON
+
