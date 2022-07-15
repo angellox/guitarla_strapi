@@ -14,3 +14,8 @@
 
 ### Controlling the content via Strapi and send through JSON
 
+![](https://github.com/angellox/guitarla_strapi/blob/main/Screen%20Shot%202022-07-15%20at%2010.38.12%20a.m..png)
+
+### Create/Modify and Delete content directly via Strapi
+
+![](https://github.com/angellox/guitarla_strapi/blob/main/Screen%20Shot%202022-07-15%20at%2010.38.34%20a.m..png)
