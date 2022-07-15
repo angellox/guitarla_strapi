@@ -19,3 +19,8 @@
 ### Create/Modify and Delete content directly via Strapi
 
 ![](https://github.com/angellox/guitarla_strapi/blob/main/Screen%20Shot%202022-07-15%20at%2010.38.34%20a.m..png)
+
+## Visualizing data on App
+
+![](https://github.com/angellox/guitarla_strapi/blob/main/Screen%20Shot%202022-07-15%20at%2010.45.47%20a.m..png)
+![](https://github.com/angellox/guitarla_strapi/blob/main/Screen%20Shot%202022-07-15%20at%2010.46.27%20a.m..png)
