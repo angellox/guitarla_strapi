@@ -8,4 +8,4 @@
 
 ## Use the app
 
--> Click here to view the built app: 
+-> Click here to view the built app: [GuitarLA - Main Page](https://guitarla-angelcruz160798-gmailcom.vercel.app/)
